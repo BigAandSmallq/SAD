@@ -73,7 +73,7 @@ The results show that:
 - **Adversarial Self-Distillation (ASD)** alone improves overall quality and reduces error propagation.
 - **First-Frame Enhancement (FFE)** significantly boosts visual fidelity by allocating more denoising steps to the initial frame.
 - **Combining both** yields the best performance—our 1\*-step result even surpasses the baseline 2-step quality, demonstrating strong synergy.
-<!-- 
+
 ---
 
 ## 📝 Citation
@@ -84,6 +84,7 @@ If you find our work useful, please consider citing:
 @article{yang2025ASD,
   title={Towards One-Step Causal Video Generation via Adversarial Self-Distillation},
   author={Yongqi Yang and Huayang Huang and Xu Peng and Xiaobin Hu and Donghao Luo and Jiangning Zhang and Chengjie Wang and Yu Wu},
-  journal={arXiv preprint arXiv:2511.xxxxx},
+  journal={arXiv preprint arXiv:2511.01419},
   year={2025}
-} -->
+
+} 
